@@ -1,0 +1,7 @@
+# 앱 기본 색 (Streamlit 테마)
+[theme]
+base = "light"
+primaryColor = "#4C6FFF"
+backgroundColor = "#F6F8FC"
+secondaryBackgroundColor = "#EDF1F8"
+textColor = "#1E2532"

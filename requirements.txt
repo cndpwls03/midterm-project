@@ -1,0 +1,6 @@
+streamlit>=1.32
+pandas
+altair
+requests        # Gemini AI 연결
+# Claude를 쓸 때만 필요 (선택)
+anthropic
